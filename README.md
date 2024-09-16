@@ -9,11 +9,11 @@
 ### 👨‍💻 About Me :
 -📝 I am a university-level analyst programmer student, currently finishing a programming bootcamp.
 
--💬 Ask me about React.js, redux, Node.js, Express, Javascript,sequelize
+-💬 Ask me about Javascript, Python, C, SQL
 
 -📫 How to reach me vinconeric20@gmail.com
 
--🌱 I’m currently learning mongo db
+-🌱 I’m currently learning Java
 
 ---
 ### 📊My stats :
