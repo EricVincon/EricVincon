@@ -2,7 +2,7 @@
 <div id="header" align= "center">
   <img src="https://media.giphy.com/media/MT5UUV1d4CXE2A37Dg/giphy.gif" width="200"/>
   <h1 align="center"> Hi👋, I'm EricVincon</h1>
-  <h3 align="center"> Hi everyone! I'm Eric Vincon, a passionate software developer and programmer. I'm excited to share my work and projects with the community on my Github. You will find a variety of projects here, ranging from my early steps to my latest achievements in programming. I'm open to collaborations and advice on how to continue improving. Thank you for visiting my Github! </h3>
+  <h3 align="center"> Hi everyone! I'm Eric Vincon, a passionate software developer. I'm excited to share my work and projects with the community on my Github. You will find a variety of projects here, ranging from my early steps to my latest achievements in programming. I'm open to collaborations and advice on how to continue improving. Thank you for visiting my Github! </h3>
 </div<
 
 ---
