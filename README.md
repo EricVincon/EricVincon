@@ -9,7 +9,7 @@
 ### 👨‍💻 About Me :
 -📝 I am a university-level analyst programmer student, currently finishing a programming bootcamp.
 
--💬 Ask me about Javascript, Python, C, SQL
+-💬 Ask me about Javascript, Python, C, SQL , DBMS (MySQL)
 
 -📫 How to reach me vinconeric20@gmail.com
 
